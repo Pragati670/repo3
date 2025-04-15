@@ -8,7 +8,7 @@ steps:
       - --region=us-central1
       - --source=.
       - --trigger-http
-      - --runtime=python37
+      - --runtime=python12
       - --allow-unauthenticated
 
 options:
